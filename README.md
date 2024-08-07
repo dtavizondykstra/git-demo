@@ -8,4 +8,5 @@
 3. Stage the changes using `git add`
 4. Commit the changes using `git commit -m ".."`
 
-* *Note*: Use the graphical interface, GitLens, when necessary. For example, when viewing the `git diff`. Diffs, commits, and branching can be viewed in the CLI, but are often better in the graphical interface.
+* ***Note**: Use the graphical interface, GitLens, when necessary. For example, when viewing the `git diff`. Diffs, commits, and branching can be viewed in the CLI, but are often better in the graphical interface.*
+  
