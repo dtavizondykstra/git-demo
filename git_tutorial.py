@@ -1,6 +1,6 @@
 def add_numbers(a, b, c):
     """Return the sum of three numbers."""
-    return a + b + c
+     return sum(a, b, c)
 
 # 1. extend_add numbers to allow an arbitrary number of parameters
 # 2. investigate and resolve security exploit of add_numbers()
